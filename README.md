@@ -1,3 +1,2 @@
 # Advent of Code
-These are my solutions to Advent of Code 2023.
-
+Poorly written solutions to fantastic problems.
